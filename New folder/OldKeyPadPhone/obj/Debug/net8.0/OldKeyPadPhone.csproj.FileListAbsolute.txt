@@ -1,0 +1,28 @@
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.exe
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.deps.json
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.runtimeconfig.json
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.dll
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.pdb
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.AssemblyInfoInputs.cache
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.AssemblyInfo.cs
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.csproj.CoreCompileInputs.cache
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.dll
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\refint\OldKeyPadPhone.dll
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.pdb
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.genruntimeconfig.cache
+D:\Workspace\OldKeyPadPhone\OldKeyPadPhone\obj\Debug\net8.0\ref\OldKeyPadPhone.dll
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.exe
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.deps.json
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.runtimeconfig.json
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.dll
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\bin\Debug\net8.0\OldKeyPadPhone.pdb
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.AssemblyInfoInputs.cache
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.AssemblyInfo.cs
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.csproj.CoreCompileInputs.cache
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.dll
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\refint\OldKeyPadPhone.dll
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.pdb
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\OldKeyPadPhone.genruntimeconfig.cache
+D:\Workspace\OldKeyPadPhone\New folder\OldKeyPadPhone\obj\Debug\net8.0\ref\OldKeyPadPhone.dll
